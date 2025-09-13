@@ -23,7 +23,7 @@ function App() {
             {/* Other user pages */}
             <Route path="home" element={<Dashboard />} />
             <Route path='pet' element={<UserPetListing />} />
-            <Route path='details' element={<PetDetailPage />} />
+            <Route path='pet/details' element={<PetDetailPage />} />
 
 
 

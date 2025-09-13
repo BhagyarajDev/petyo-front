@@ -125,7 +125,7 @@ const Dashboard = () => {
           Best deals on pet products and services
         </p>
       </div>
-      <PetDetailPage/>
+     
     </div>
   );
 };
